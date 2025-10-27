@@ -1,0 +1,13 @@
+- Link simulasi wokwi:
+https://wokwi.com/projects/445853359251023873
+
+- Link drive video simulasi wokwi:
+https://drive.google.com/file/d/1TE1QJhLBAdzMshPtJmXuL0Yk4ImhLDEI/view?usp=sharing
+
+- Link flowchart draw.io:
+https://drive.google.com/file/d/1HE5BZH0Ll5WSmkVoVWmOWbmy0J-XXi0P/view?usp=sharing
+
+- Referensi:
+https://www.hibit.dev/posts/92/complementary-filter-and-relative-orientation-with-mpu6050?utm_source=chatgpt.com
+
+https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/#h-mpu6050-arduino-code
