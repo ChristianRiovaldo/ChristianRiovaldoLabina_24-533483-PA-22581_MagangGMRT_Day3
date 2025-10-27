@@ -1,2 +1,1 @@
-Nama: Christian Riovaldo Labina
-NIM: 24/533483/PA/22581
+Christian Riovaldo Labina_24/533483/PA/22581
